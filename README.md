@@ -51,7 +51,10 @@ If no errors appeared then the installation is done correctly. Then, Go to your 
 
 :suspect: Project Members
 
-Madhu.BN
-P Vishnu Teja Readdy
-Dinesh Bikram Singh
+Madhu.BN,
+
+P Vishnu Teja Readdy,
+
+Dinesh Bikram Singh,
+
 Ankith Praveen
