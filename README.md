@@ -52,8 +52,11 @@ Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
 
 
 ## :suspect: Project Members
+Madhu.BN
 
-- [Aryan Veturekar](https://github.com/aryanveturekar)
-- [Himanshu Singh](https://github.com/himanshusiingh)
-- [Danish Shaikh](https://github.com/danishsshaikh)
+P Vishnu Teja reddy
+
+Ankith Praveen
+
+Dipesh Bikram singh
 
